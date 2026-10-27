@@ -1,0 +1,8 @@
+{
+  "name": "Remix Maryam Academy Mission CRM",
+  "description": "EdTech CRM and ERP Dashboard for Maryam Academy Mission (MAM) featuring Multi-User Authentication, Role-Based Access Control (RBAC), and Ultra-Modern Cyber-Tech IT Certificate Engine.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
